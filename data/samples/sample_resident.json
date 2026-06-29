@@ -1,0 +1,23 @@
+{
+    "name": "Margaret Thompson",
+    "age": 78,
+    "gender": "Female",
+    "location": "Melbourne, VIC",
+    "conditions": [
+        "Type 2 Diabetes",
+        "Mild dementia",
+        "Osteoporosis",
+        "Hypertension"
+    ],
+    "medications": [
+        "Metformin 500mg twice daily",
+        "Amlodipine 5mg once daily",
+        "Calcium + Vitamin D supplement"
+    ],
+    "mobility": "Uses a walking frame, high fall risk",
+    "family_contact": "Daughter Sarah, calls weekly",
+    "previous_incidents": "One fall in bathroom 3 months ago",
+    "dietary_requirements": "Diabetic diet, soft foods preferred",
+    "language": "English",
+    "ndis_registered": true
+}
